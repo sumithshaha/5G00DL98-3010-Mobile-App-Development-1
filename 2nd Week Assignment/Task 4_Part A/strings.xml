@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App-wide strings -->
+    <string name="app_name">Compose Foundations</string>
+    <string name="copyright_text">© 2025 Compose Learning App</string>
+
+    <!-- Main screen strings -->
+    <string name="welcome_title">Welcome to Jetpack Compose</string>
+    <string name="welcome_subtitle">Build beautiful UIs with less code</string>
+
+    <!-- Info card content -->
+    <string name="card_compose_title">What is Jetpack Compose?</string>
+    <string name="card_compose_description">Jetpack Compose is Android\'s modern toolkit for building native UI. It simplifies and accelerates UI development with less code, powerful tools, and intuitive Kotlin APIs.</string>
+
+    <string name="card_declarative_title">Declarative UI</string>
+    <string name="card_declarative_description">With Compose, you describe what your UI should look like, and the framework handles the rest. When data changes, Compose automatically updates the UI.</string>
+
+    <string name="card_composables_title">Composable Functions</string>
+    <string name="card_composables_description">The building blocks of Compose are composable functions. They\'re regular Kotlin functions annotated with @Composable that emit UI elements.</string>
+
+    <!-- Login form strings -->
+    <string name="login_greeting">Welcome Back!</string>
+    <string name="login_subtitle">Please sign in to continue</string>
+    <string name="login_username_label">Username</string>
+    <string name="login_username_placeholder">Enter your username</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_password_placeholder">Enter your password</string>
+    <string name="login_button">Login</string>
+    <string name="cancel_button">Cancel</string>
+
+    <!-- Button and action strings -->
+    <string name="click_me_button">Click Me</string>
+    <string name="add_item_description">Add item</string>
+
+    <!-- Toast messages -->
+    <string name="fab_clicked_message">FAB Clicked!</string>
+    <string name="button_pressed_message">Button pressed!</string>
+    <string name="login_cancelled_message">Login cancelled</string>
+    <string name="login_attempt_message">Login attempt: %1$s</string>
+</resources>
