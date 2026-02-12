@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ComposeStateDemo</string>
+
+    <!-- Exercise 1: State demo strings -->
+    <string name="greeting_default">Hello!</string>
+    <string name="greeting_format">Hello, %1$s!</string>
+    <string name="label_name">Enter your name</string>
+    <string name="label_counter">Counter: %1$d</string>
+    <string name="btn_increment">Increment</string>
+    <string name="btn_reset">Reset</string>
+    <string name="title_state_demo">State Demo</string>
+
+    <!-- Exercise 3: Navigation screens -->
+    <string name="welcome_home">Welcome to Home Screen</string>
+    <string name="go_to_details">Go to Details</string>
+    <string name="detail_screen_title">Detail Screen</string>
+    <string name="back">Back</string>
+</resources>

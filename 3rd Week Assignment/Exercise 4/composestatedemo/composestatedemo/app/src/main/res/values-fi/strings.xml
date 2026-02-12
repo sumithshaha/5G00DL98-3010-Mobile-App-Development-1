@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Exercise 1: State demo screen -->
+    <string name="title_state_demo">Tilademo</string>
+    <string name="greeting_default">Hei!</string>
+    <string name="greeting_format">Hei, %1$s!</string>
+    <string name="label_name">Kirjoita nimesi</string>
+    <string name="label_counter">Laskuri: %1$d</string>
+    <string name="btn_increment">Kasvata</string>
+    <string name="btn_reset">Nollaa</string>
+
+    <!-- Exercise 3: Navigation screens -->
+    <string name="welcome_home">Tervetuloa aloitusnäyttöön</string>
+    <string name="go_to_details">Siirry tietoihin</string>
+    <string name="detail_screen_title">Tietonäyttö</string>
+    <string name="back">Takaisin</string>
+</resources>
